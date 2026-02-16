@@ -1,5 +1,6 @@
 # 🧑🏻‍💻 Pedro Amorim
- 
+**`Aspiring backend developer`**
+
 I'm a Java developer in training, focused on building a strong foundation in backend development and object-oriented programming. I continuously improve my skills by developing practical projects, refining clean code practices, and deepening my understanding of software structure and logic.
 
 --- 
