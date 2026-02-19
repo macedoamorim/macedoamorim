@@ -1,7 +1,11 @@
 # 🧑🏻‍💻 Pedro Amorim
-**`Aspiring backend developer`**
+**`Aspiring backend developer`** 
 
-I'm a Java developer in training, focused on building a strong foundation in backend development and object-oriented programming. I continuously improve my skills by developing practical projects, refining clean code practices, and deepening my understanding of software structure and logic.
+---
+
+Hi, I'm Pedro Macedo Amorim, a Systems Analysis and Development student at Universidade Nove de Julho (UNINOVE), with a strong interest in back-end development.
+I am currently developing my skills in Java, SQL, and Object-Oriented Programming, always focused on writing clean and well-structured code.
+I’m seeking an internship opportunity in IT to gain hands-on experience and continue growing as a developer.
 
 --- 
 
